@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&family=Ubuntu&display=swap');
+
+body{
+    background: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+
+.header{
+    font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    font-size: 60px;
+    color: #004d7a;
+}
